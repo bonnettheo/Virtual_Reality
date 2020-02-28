@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>FS_simple.fsh</file>
+        <file>VS_simple.vsh</file>
+        <file>VS_simpler.vsh</file>
+        <file>FS_plan.fsh</file>
+        <file>VS_simple_texture.vsh</file>
+        <file>FS_simple_texture.fsh</file>
+        <file>FS_plan_texture.fsh</file>
+        <file>FS_earth_texture.fsh</file>
+        <file>FS_texture_damier.fsh</file>
+        <file>VS_cube_texture.vsh</file>
+        <file>FS_cube_texture.fsh</file>
+        <file>VS_skybox_texture.vsh</file>
+        <file>FS_skybox_texture.fsh</file>
+    </qresource>
+    <qresource prefix="/textures">
+        <file>wood.png</file>
+        <file>2k_earth_nightmap.jpg</file>
+        <file>polytech_logo.jpg</file>
+        <file>2k_earth_daymap.jpg</file>
+        <file>dice_texture.jpg</file>
+        <file>textureCube/negx.jpg</file>
+        <file>textureCube/negy.jpg</file>
+        <file>textureCube/negz.jpg</file>
+        <file>textureCube/posx.jpg</file>
+        <file>textureCube/posy.jpg</file>
+        <file>textureCube/posz.jpg</file>
+    </qresource>
+</RCC>
